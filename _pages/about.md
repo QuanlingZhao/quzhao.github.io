@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my web! I am an undergraduate student at the University of California, San Diego in Computer Science and Engineering Department. I am currently a research assisstant at [System ENergy Efficiency Lab](http://varys.ucsd.edu/), where I fortunately have been working with Prof. Tajana Rosing. My research interests are efficient and theoretically founded machine learning algorithms applicable in practical settings. If you have any questions or needs, please reach out to me! (Email: quzhao@ucsd.edu)
+Hi, welcome to my web! I am an undergraduate student at the University of California, San Diego in Computer Science and Engineering Department. I am currently a research assisstant at [System Energy Efficiency Lab](http://varys.ucsd.edu/), where I fortunately have been working with Prof. Tajana Rosing. My research interests are efficient and theoretically founded machine learning algorithms applicable in practical settings. If you have any questions or needs, please reach out to me! (Email: quzhao@ucsd.edu)
 
 
 Research Interest
