@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+* quzhao@ucsd.edu
+
+
 Education
 ======
 * B.S. in Computer Science, UC San Diego, 2023
@@ -49,7 +54,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
 

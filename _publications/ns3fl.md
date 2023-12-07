@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "ns3-fl: Simulating Federated Learning with ns-3"
 collection: publications
 permalink: /publication/ns3fl
 date: 2010-06-22
