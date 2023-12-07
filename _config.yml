@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Quanling Zhao"
-  avatar           : 
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "USA, La Jolla"
   employer         : "System Energy Efficiency Lab @ UCSD"
