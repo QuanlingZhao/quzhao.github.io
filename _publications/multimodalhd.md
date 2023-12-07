@@ -8,4 +8,4 @@ paperurl: 'https://www.date-conference.com/date-2024-accepted-papers'
 citation: 'Quanling Zhao, Xiaofan Yu, Shengfan Hu, Tajana Rosing, "MultimodalHD: Federated Learning Over Heterogeneous Sensor Modalities using Hyperdimensional Computing" - Design, Automation, and Test in Europe (DATE), 2024'
 ---
 
-[Download paper here]([TBA](https://quanlingzhao.github.io/website/files/multimodalhd.pdf)
+[Download paper here](https://quanlingzhao.github.io/website/files/multimodalhd.pdf)
