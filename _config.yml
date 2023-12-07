@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Undergraduate Student at UCSD"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Quanling Zhao"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quanling Zhao"
   avatar           : "profile.png"
-  bio              : "-"
+  bio              : "Undergraduate Student at UCSD"
   location         : "USA, La Jolla"
   employer         : "System Energy Efficiency Lab @ UCSD"
   pubmed           : 
