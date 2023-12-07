@@ -11,37 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, UC San Diego, 2023
+
+
+Research Interest
+======
+- Machine learning theory, Kernel method, neural tangent kernel.
+- Efficient neuromorphic computing methods: Vector Symbolic Architecture/Hyperdimensional Computing.
+- Novel learning paradigms: Online, Few-shot, Federated, Continual, Unsupervised, Multimodal Learning.
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021 - Present
+  * System Energy Efficiency Lab
+  * Undergraduatre Researcher
+  * Supervisor: Prof. Tajana Rosing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
+Honors & Rewards
+======
+* Computer Science & Engineering annual Awards (Excellence in Research) June 2023
+  * One among two recipients in graduating class.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: English (Full professional proficiency), Chinese (Native)
+* Java, C/C++, Python, Matlab, System Verilog.
+* LaTeX, Git, Markdown, Kubernetes.
+* Build deep learning architectures using Pytorch, TensorFlow.
+* Math: Statistics/probability, calculus, differential eq, discrete, graph theory, linear optimization, linear algebra.
+* Computer Science: Networks, programming language, cryptography, computing theory, data structure, circuits/computer architecture ML/AI/DL/Recommander System.
+
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+
+
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,3 +71,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+--->
