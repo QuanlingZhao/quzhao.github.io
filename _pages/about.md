@@ -17,7 +17,6 @@ Research Interest
 - Efficient neuromorphic computing methods: Vector Symbolic Architecture/Hyperdimensional Computing.
 - Novel learning paradigms: Online, Few-shot, Federated, Continual, Unsupervised, Multimodal Learning.
 
-
 Updates
 ======
 - (12/5/2023) This site is created for my PhD application!

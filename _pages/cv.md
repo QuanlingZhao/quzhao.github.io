@@ -19,6 +19,7 @@ Contact
 Education
 ======
 * B.S. in Computer Science, UC San Diego, 2023
+  * GPA - 3.857
 
 
 Research Interest
