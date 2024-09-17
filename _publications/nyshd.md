@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/nyshd
 date: 2023-12-16
 venue: 'NeurIPS workshop on Machine Learning with New Compute Paradigms'
-paperurl: 'https://nips.cc/virtual/2023/76402'
+paperurl: 'https://openreview.net/forum?id=7YUt7pQVFg&referrer=%5Bthe%20profile%20of%20Quanling%20Zhao%5D(%2Fprofile%3Fid%3D~Quanling_Zhao1)'
 citation: 'Quanling Zhao, Anthony Thomas, Ari Brin, Xiaofan Yu, Tajana Rosing, "Unleashing Hyperdimensional Computing with Nyström Method based Encoding" - MLNCP@NeurIPS, 2023'
 ---
 
