@@ -32,10 +32,11 @@ Publications
   {% include archive-single-cv.html %}
 {% endfor %}<ul>
 
+
 Miscellaneous
 ======
 - I have been participating in paper reading groups in my group. A repository of all the papers we have reviewed are (here)[https://github.com/UCSD-SEELab/iot-hd-reading-group].
-- I like photography, you can view some of my works (here)[/portfolio/]
+- I like photography, you can view some of my works (here)[/portfolio/].
 
 
 
