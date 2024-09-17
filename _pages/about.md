@@ -21,9 +21,9 @@ Research Interest
 
 News
 ======
-- (August 2024) I joined UCSD for my PhD.
+- (August 2024) I joined [UCSD](https://ucsd.edu/) [CSE](https://cse.ucsd.edu/) department for my PhD.
 - (December 2023) One paper accepted by [Design, Automation and Test in Europe Conference](https://www.date-conference.com/) (DATE) 2024.
-- (October 2023) One workshop paper accepted by MLNCP @ NeurIPS 2024.
+- (October 2023) One workshop paper accepted by [MLNCP](https://www.mlwithnewcompute.com/) @ NeurIPS 2024.
 - (June 2023) I won the [UCSD CSE 2023 Undergraduate Excellence in Research award](https://cse.ucsd.edu/undergraduate/cse-undergraduate-student-awards).
 
 Publications
