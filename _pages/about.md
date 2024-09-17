@@ -26,17 +26,17 @@ News
 - (October 2023) One workshop paper accepted by [MLNCP](https://www.mlwithnewcompute.com/) @ NeurIPS 2024.
 - (June 2023) I won the [UCSD CSE 2023 Undergraduate Excellence in Research award](https://cse.ucsd.edu/undergraduate/cse-undergraduate-student-awards).
 
+Miscellaneous
+======
+- I have been participating in paper reading groups in my group. A repository of all the papers we have reviewed are (here)[https://github.com/UCSD-SEELab/iot-hd-reading-group].
+- I like photography, you can view some of my works (here)[/portfolio/].
+
+
 Publications
 ======
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}<ul>
-
-
-Miscellaneous
-======
-- I have been participating in paper reading groups in my group. A repository of all the papers we have reviewed are (here)[https://github.com/UCSD-SEELab/iot-hd-reading-group].
-- I like photography, you can view some of my works (here)[/portfolio/].
 
 
 
