@@ -18,4 +18,4 @@ collection: portfolio
 ![-](portfolio-1-photo/1 (12).jpg)
 
 
-![-](portfolio-1-photo/bio-photo-2.jpg)
+![test](portfolio-1-photo/bio-photo-2.jpg)
