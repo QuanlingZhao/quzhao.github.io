@@ -16,3 +16,6 @@ collection: portfolio
 ![-](portfolio-1-photo/1 (10).jpg)
 ![-](portfolio-1-photo/1 (11).jpg)
 ![-](portfolio-1-photo/1 (12).jpg)
+
+
+![-](bio-photo-2.jpg)
