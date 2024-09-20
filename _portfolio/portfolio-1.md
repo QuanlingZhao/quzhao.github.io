@@ -1,21 +1,8 @@
 ---
-title: "Jun 2024"
-excerpt: "Landscape"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
 
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
-![-](portfolio-1-photo/1 (1).jpg)
-![-](portfolio-1-photo/1 (2).jpg)
-![-](portfolio-1-photo/1 (3).jpg)
-![-](portfolio-1-photo/1 (4).jpg)
-![-](portfolio-1-photo/1 (5).jpg)
-![-](portfolio-1-photo/1 (6).jpg)
-![-](portfolio-1-photo/1 (7).jpg)
-![-](portfolio-1-photo/1 (8).jpg)
-![-](portfolio-1-photo/1 (9).jpg)
-![-](portfolio-1-photo/1 (10).jpg)
-![-](portfolio-1-photo/1 (11).jpg)
-![-](portfolio-1-photo/1 (12).jpg)
