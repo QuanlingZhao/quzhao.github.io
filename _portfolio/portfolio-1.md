@@ -4,6 +4,9 @@ excerpt: "Landscape"
 collection: portfolio
 ---
 
+
+![-](/images/bio-photo-2.jpg)
+
 ![-](portfolio-1-photo/1 (1).jpg)
 ![-](portfolio-1-photo/1 (2).jpg)
 ![-](portfolio-1-photo/1 (3).jpg)
@@ -16,6 +19,3 @@ collection: portfolio
 ![-](portfolio-1-photo/1 (10).jpg)
 ![-](portfolio-1-photo/1 (11).jpg)
 ![-](portfolio-1-photo/1 (12).jpg)
-
-
-<br/><img src='/images/500x300.png'>
