@@ -36,3 +36,6 @@ Miscellaneous
 - I like photography, you can view some of my works [here](portfolio/).
 
 
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
+
