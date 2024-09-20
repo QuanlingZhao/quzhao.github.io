@@ -9,7 +9,7 @@ collection: portfolio
 <br/><br/><br/>
 ![-](/website/images/portfolio-1-photo/1 (2).jpg)
 <br/><br/><br/>
-![-](/website/images/portfolio-1-photo/1 (3).jpg){ width=50% }
+<img src="/website/images/portfolio-1-photo/1 (3).jpg" alt="drawing" width="200"/>
 <br/><br/><br/>
 ![-](/website/images/portfolio-1-photo/1 (4).jpg)
 <br/><br/><br/>
