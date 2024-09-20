@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-![-](/images/bio-photo-2.jpg)
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
 ![-](portfolio-1-photo/1 (1).jpg)
 ![-](portfolio-1-photo/1 (2).jpg)
