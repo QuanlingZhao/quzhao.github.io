@@ -9,19 +9,19 @@ collection: portfolio
 <br/><br/><br/>
 ![-](/website/images/portfolio-1-photo/1 (2).jpg)
 <br/><br/><br/>
-![-](/website/images/portfolio-1-photo/1 (3).jpg)
+![-](/website/images/portfolio-1-photo/1 (3).jpg){ width=50% }
 <br/><br/><br/>
 ![-](/website/images/portfolio-1-photo/1 (4).jpg)
 <br/><br/><br/>
 ![-](/website/images/portfolio-1-photo/1 (5).jpg)
 <br/><br/><br/>
-![-](/website/images/portfolio-1-photo/1 (6).jpg)
+![-](/website/images/portfolio-1-photo/1 (6).jpg){ width=50% }
 <br/><br/><br/>
 ![-](/website/images/portfolio-1-photo/1 (7).jpg)
 <br/><br/><br/>
-![-](/website/images/portfolio-1-photo/1 (8).jpg)
+![-](/website/images/portfolio-1-photo/1 (8).jpg){ width=50% }
 <br/><br/><br/>
-![-](/website/images/portfolio-1-photo/1 (9).jpg)
+![-](/website/images/portfolio-1-photo/1 (9).jpg){ width=50% }
 <br/><br/><br/>
 ![-](/website/images/portfolio-1-photo/1 (10).jpg)
 <br/><br/><br/>
