@@ -18,4 +18,4 @@ collection: portfolio
 ![-](portfolio-1-photo/1 (12).jpg)
 
 
-![-](/_portfolio/portfolio-1-photo/bio-photo-2.jpg)
+<br/><img src='/images/500x300.png'>
