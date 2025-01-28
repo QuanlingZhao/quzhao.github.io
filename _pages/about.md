@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at the University of California, San Diego (UCSD) in Computer Science and Engineering Department. I am currently a graduate researcher at [System Energy Efficiency Lab](http://varys.ucsd.edu/), where I fortunately have been working with Prof. [Tajana Rosing](https://scholar.google.com/citations?user=DY_XcO4AAAAJ&hl=en). My research interests are efficient and theoretically founded machine learning algorithms applicable in practical settings. Prior to my PhD, I received my B.S. degree in Computer Science also from UCSD in 2023. Feel free to contact me via Email: quzhao@ucsd.edu
+I am a first year PhD student at the University of California, San Diego (UCSD) in Computer Science and Engineering Department. I am currently a graduate researcher at [System Energy Efficiency Lab](http://varys.ucsd.edu/), where I fortunately have been working with Prof. [Tajana Rosing](https://scholar.google.com/citations?user=DY_XcO4AAAAJ&hl=en). My research interests are efficient and theoretically founded machine learning algorithms applicable in practical settings. Prior to my PhD, I received my B.S. degree in Computer Science also from UCSD in 2023. Feel free to contact me via **Email: quzhao@ucsd.edu**
 
 
-For more details, see my <font color="blue">[CV](https://quanlingzhao.github.io/website/files/CV_QuanlingZhao.pdf)</font>.
+For more details, see my [CV](https://quanlingzhao.github.io/website/files/CV_QuanlingZhao.pdf).
 
 Research Interest
 ======
