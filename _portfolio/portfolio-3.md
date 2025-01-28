@@ -5,20 +5,20 @@ collection: portfolio
 ---
 
 
-![-](/website/images/portfolio-3-photo/3 (1).jpg)
+![-](/website/images/portfolio-3-photo/3 (1).JPG)
 <br/><br/><br/>
-![-](/website/images/portfolio-3-photo/3 (2).jpg)
+![-](/website/images/portfolio-3-photo/3 (2).JPG)
 <br/><br/><br/>
-![-](/website/images/portfolio-3-photo/3 (3).jpg)
+![-](/website/images/portfolio-3-photo/3 (3).JPG)
 <br/><br/><br/>
-![-](/website/images/portfolio-3-photo/3 (4).jpg)
+![-](/website/images/portfolio-3-photo/3 (4).JPG)
 <br/><br/><br/>
-![-](/website/images/portfolio-3-photo/3 (5).jpg)
+![-](/website/images/portfolio-3-photo/3 (5).JPG)
 <br/><br/><br/>
-![-](/website/images/portfolio-3-photo/3 (6).jpg)
+![-](/website/images/portfolio-3-photo/3 (6).JPG)
 <br/><br/><br/>
-![-](/website/images/portfolio-3-photo/3 (7).jpg)
+![-](/website/images/portfolio-3-photo/3 (7).JPG)
 <br/><br/><br/>
-![-](/website/images/portfolio-3-photo/3 (8).jpg)
+![-](/website/images/portfolio-3-photo/3 (8).JPG)
 <br/><br/><br/>
-![-](/website/images/portfolio-3-photo/3 (9).jpg)
+![-](/website/images/portfolio-3-photo/3 (9).JPG)
